@@ -1,4 +1,0 @@
-bloom
-dof
-color grading
-aa
